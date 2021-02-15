@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kelvi Paa Kwesi Adjei
+- 👋 Hi, I’m Kelvin Paa Kwesi Adjei
 - 👀 I’m interested in writing and developing software programs
 - 🌱 I’m currently learning Java, JavaScript and Swift
 - 💞️ I’m looking to collaborate on building web and iOS mobile applications related to sports and entertainmemt
